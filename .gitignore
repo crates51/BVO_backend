@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+migrations/*.pyc
+migrations/versions/*.pyc
+.idea
+.vscode
+.editorconfig
+.env
+venv
+set_env.sh
+tags
+app/ftp/*
+!app/ftp/H660Series_base.xml
+
+.vim-arsync
